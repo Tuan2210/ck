@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.head{
+	background-color: #0073cf;
+	color: white; 
+	padding: 4px 5% 4px 5%;
+}
+
+.btnAdd{
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20px;
+}
+
+.table{
+	margin-top: 2%; 
+	text-align: center;
+}
+
+.thead{
+	background-color: #0073cf; 
+	color: white; 
+	padding: 10px;
+}
